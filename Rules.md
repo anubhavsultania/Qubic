@@ -1,6 +1,6 @@
 # Qubic Contract Development Guidelines
 
-This directory contains the smart contract implementations in header files starting with a capital letter. 
+This directory contains the smart contract implementations in header files starting with a capital letter.
 
 Further, it contains `qpi.h`, the Qubic Programming Interface for implementing the smart contracts.
 It is available automatically in the smart contract implementation header files.
