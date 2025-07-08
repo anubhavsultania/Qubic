@@ -16,7 +16,7 @@ Functions cannot modify the state, but they are useful to query information with
 Procedures can modify the state and are either invoked by special transactions (user procedures) or internal core events (system procedures).
 
 Contract developers should be aware of the following parts of the Qubic protocol that are not implemented yet in the core:
-- Execution of contract procedures will cost fees that will be paid from its contract fee reserve.
+- Execution of contract procedures will cost fees that will be paid from its contract fee reserve. 
   This reserve is initially filled with the QUs burned during the IPO of the contract and refilled by additional burning of QUs happening in the contract.
   In the long run, each contract needs to burn QUs to stay alive.
   If a contract's execution fee reserve runs empty, the contract will not be executed anymore.
