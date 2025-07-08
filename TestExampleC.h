@@ -6,7 +6,7 @@ struct TESTEXC2
 
 struct TESTEXC : public ContractBase
 {
-	//---------------------------------------------------------------
+	//--------------------------------------------------------------
 	// ASSET MANAGEMENT RIGHTS TRANSFER
 
 	struct GetTestExampleAShareManagementRights_input
