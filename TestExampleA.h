@@ -6,7 +6,7 @@ struct TESTEXA2
 
 struct TESTEXA : public ContractBase
 {
-	//---------------------------------------------------------------
+	//--------------------------------------------------------------
 	// QPI FUNCTION TESTING
 
 	struct QpiFunctionsOutput
