@@ -66,7 +66,8 @@ npm start
   * Any other potential flaws
 
 ## 📷 Screenshots
-<p align="center"> <img src="screenshots/ui.png" width="600" alt="Qubic Smart Contract Auditor UI"/> </p>
+![image](https://github.com/user-attachments/assets/b9a9e18e-878f-4ebb-b237-5739b50f26e0)
+
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
