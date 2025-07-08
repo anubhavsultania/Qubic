@@ -46,7 +46,7 @@ uvicorn main:app --reload
 ```
 ### 4. Start React Frontend
 ```bash
-cd frontend
+git clone https://github.com/aditya172004/Qubic_raise_your_hack.git
 npm install
 npm start
 ```
