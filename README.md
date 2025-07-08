@@ -51,7 +51,7 @@ npm install
 npm start
 ```
 ## 🧪 Usage
-* Upload a .qubic smart contract file locally OR
+* Upload a qubic smart contract file locally OR
 
 * Paste a GitHub link to fetch the contract automatically.
 
